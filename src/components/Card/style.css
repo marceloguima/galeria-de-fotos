@@ -1,0 +1,23 @@
+.card{
+    width: 100%;
+    max-width: 300px;
+    height: 100%;
+    max-height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    border: solid 1px var(--cor-bordas);
+    box-shadow: 1px 2px 5px var(--cor-sombra);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card img{
+    width: 100%;
+}
+
+.card img:hover{
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+}

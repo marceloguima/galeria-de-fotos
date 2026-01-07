@@ -1,16 +1,13 @@
 import React from 'react'
 import './App.css'
-import Header from './components/Header'
-import SearchBar from './components/SearchBar'
+import Home from './pages/Home/Home'
+
 
 function App() {
 
   return (
     <>
-     <Header />
-     <main>
-      <SearchBar />
-     </main>
+    <Home />
     
     </>
   )
