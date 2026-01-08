@@ -75,7 +75,7 @@ const Home = () => {
                 {
                     params: {
                         query: termo,
-                        per_page: 20,
+                        per_page: 10,
                         client_id: UNSPLASH_ACCESS_KEY,
                     },
                 }
@@ -92,7 +92,7 @@ const Home = () => {
             }));
 
             setMensagem(
-                `Encontrei ${imagensBusca.length} imagens de "${termo}":`
+                `Encontrei ${imagensBusca.length} imagens de "${termo}"`
             );
 
             if (imagensBusca.length === 0) {

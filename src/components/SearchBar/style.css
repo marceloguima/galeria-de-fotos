@@ -1,15 +1,15 @@
-.div-search-bar{
+.div-search-bar {
     max-width: 400px;
     height: 40px;
-    margin: 40px auto;
+    margin: 150px auto;
     background: var(--branco1);
     border: solid 1px var(--cor-bordas);
-        box-shadow: 1px 2px 5px var(--cor-sombra);
+    box-shadow: 1px 2px 5px var(--cor-sombra);
     border-radius: 30px;
     display: flex;
 }
 
-.div-search-bar input{
+.div-search-bar input {
     width: 85%;
     height: 100%;
     border: none;
@@ -20,7 +20,7 @@
     outline: none;
 }
 
-.div-search-bar button{
+.div-search-bar button {
     width: 15%;
     height: 100%;
     border: none;
@@ -34,6 +34,6 @@
     border-radius: 0 30px 30px 0;
 }
 
-.div-search-bar button:hover{
+.div-search-bar button:hover {
     font-size: 1.4rem;
 }

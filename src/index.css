@@ -11,11 +11,11 @@
     --cor-sombra: #cccfd3;
     --cor-bordas: #ced4da;
     --background-1: #f0f0f0;
+    --background2: #222222;
     --branco1: #ffffff;
 }
 
 body {
   font-family: Arial, sans-serif;
   background-color: var(--background-1);
-  padding: 0 10px ;
 }
