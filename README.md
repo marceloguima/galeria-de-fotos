@@ -6,12 +6,19 @@ Este projeto é uma aplicação web de galeria de fotos desenvolvida como parte 
 ## 📋 Funcionalidades
 
 - **Exibição de Fotos:** Carregamento inicial de fotos aleatórias/populares direto da API do Unsplash.
-![Tela de carregamento da inicial](./imagem-aleat-galeria.png)
+![Tela de carregamento da inicial](./public/imagem-aleat-galeria.png)
 
 - **Busca Inteligente:** Barra de pesquisa que permite encontrar fotos por palavras-chave.
+![Tela de carregamento da busca](./public/imagem-busca.png)
+
 - **Layout Responsivo:** Utilização de CSS Grid (`auto-fit`) para adaptar o número de colunas automaticamente ao tamanho da tela (Mobile, Tablet e Desktop).
-- **Feedback Visual:** Indicadores de carregamento (Loaders) e mensagens de erro ou "nenhum resultado encontrado".
+- **Feedback Visual:** Indicadores de carregamento (Loaders) 
+![Tela de indicadores de carregamento ](./public/loaders.png)
+
+ mensagens de erro ou "nenhum resultado encontrado".
 - **Interface Limpa:** Design focado na experiência do usuário e na visualização das imagens.
+![Tela de carregamento da inicial](./public/mensagem.png)
+
 
 
 
