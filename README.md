@@ -1,14 +1,13 @@
 
 # 📸 Galeria de Fotos - React
 
-Este projeto é uma aplicação web de galeria de fotos desenvolvida como parte do exercício de programação (2026/1). A aplicação consome a API do **Unsplash** para listar 
-<img src=".assets/imagem-aleat-galeria.png" alt="Exemplo da Galeria" width="400">
-
-e buscar imagens de alta qualidade, apresentando-as em um layout responsivo e moderno.
+Este projeto é uma aplicação web de galeria de fotos desenvolvida como parte do exercício de programação (2026/1). A aplicação consome a API do **Unsplash** para listar e buscar imagens de alta qualidade, apresentando-as em um layout responsivo e moderno.
 
 ## 📋 Funcionalidades
 
 - **Exibição de Fotos:** Carregamento inicial de fotos aleatórias/populares direto da API do Unsplash.
+![Tela de carregamento da inicial](./imagem-aleat-galeria.png)
+
 - **Busca Inteligente:** Barra de pesquisa que permite encontrar fotos por palavras-chave.
 - **Layout Responsivo:** Utilização de CSS Grid (`auto-fit`) para adaptar o número de colunas automaticamente ao tamanho da tela (Mobile, Tablet e Desktop).
 - **Feedback Visual:** Indicadores de carregamento (Loaders) e mensagens de erro ou "nenhum resultado encontrado".
