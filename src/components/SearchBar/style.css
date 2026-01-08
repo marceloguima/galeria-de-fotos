@@ -1,11 +1,10 @@
 .div-search-bar{
     max-width: 400px;
     height: 40px;
-    margin: 20px auto;
+    margin: 40px auto;
     background: var(--branco1);
     border: solid 1px var(--cor-bordas);
         box-shadow: 1px 2px 5px var(--cor-sombra);
-
     border-radius: 30px;
     display: flex;
 }

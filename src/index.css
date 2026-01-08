@@ -17,6 +17,5 @@
 body {
   font-family: Arial, sans-serif;
   background-color: var(--background-1);
-  color: var(--cor-texto);
   padding: 0 10px ;
 }

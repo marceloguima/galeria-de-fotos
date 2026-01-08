@@ -2,8 +2,10 @@ header{
     padding: 20px;
     border-bottom: 2px solid var(--cor-bordas);
     box-shadow: 1px 1px 5px var(--cor-sombra);
-    text-align: center;
-    font-size: 1.3rem;
-    font-weight: bold;
-    color: var(--cor-texto);
 }
+
+header h1{
+    text-align: center;
+    font-size: 2rem;
+    color: var(--cor-texto);
+}   
