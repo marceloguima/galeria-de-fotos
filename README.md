@@ -1,7 +1,7 @@
 
 # 📸 Galeria de Fotos - React
 
-> **Projeto Online:** [Clique aqui para acessar a demonstração](galeria-puc.netlify.app)
+> **Projeto Online:** [Clique aqui para acessar a demonstração](https://galeria-puc.netlify.app)
 
 Este projeto é uma aplicação web de galeria de fotos desenvolvida como parte do exercício de programação (2026/1). A aplicação consome a API do **Unsplash** para listar e buscar imagens de alta qualidade, apresentando-as em um layout responsivo e moderno.
 
