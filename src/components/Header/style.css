@@ -1,11 +1,12 @@
 header{
-    background: var(--background1);
+    background: var(--background-1);
     width: 100vw;
     padding: 20px;
     border-bottom: 2px solid var(--cor-bordas);
     box-shadow: 1px 1px 5px var(--cor-sombra);
     position: fixed;
     top: 0;
+    z-index: 2;
 }
 
 header h1{
